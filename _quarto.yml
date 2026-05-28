@@ -5,7 +5,7 @@ project:
 website:
   title: "Weinan Hu"
   description: "Personal academic website of Weinan Hu."
-  site-url: https://weinanhu.com
+  site-url: https://weinan.hu
   navbar:
     left:
       - href: index.qmd
