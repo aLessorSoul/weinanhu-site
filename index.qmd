@@ -7,19 +7,16 @@ about:
   image-width: 14em
 ---
 
-I am a researcher working at the intersection of **quantitative marketing**, **structural econometrics**, and **digital platforms**. My current work focuses on consumer search and match-value distributions, recommender systems as markets, and the empirical analysis of online misinformation.
-
-I am preparing to apply for a PhD in Quantitative Marketing in the coming cycle.
+I am a researcher working in **quantitative marketing**. I am preparing to apply for a PhD in Quantitative Marketing in 2027.
 
 ## Interests
 
 - Structural models of consumer choice and search
-- Recommender systems, attention markets, novelty / diversity as design objectives
+- Large Language Models and Recommender systems nudging effect.
 - Empirical analysis of online platforms (advertising, misinformation)
 
 ## Currently
 
-- Working with collaborators at INSEAD on agentic / AI-mediated consumer behavior
-- Independent projects on match-value distributions in long-tail consumption (Steam, Last.fm)
+- Working as Predoc at INSEAD marketing department
 
 See [Research](research/index.qmd) for more.

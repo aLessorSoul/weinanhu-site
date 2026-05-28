@@ -4,19 +4,21 @@ title: "About"
 
 ## Background
 
-I am currently based at INSEAD, working as a research collaborator on projects spanning quantitative marketing and digital platforms. My training combines a data-science / machine-learning foundation with growing expertise in structural econometrics and economic modeling.
+I am currently based at INSEAD, Fontainebleau campus, working as a predoc on projects spanning quantitative marketing and digital platforms. My training combines a data-science / machine-learning foundation with growing expertise in modeling.
 
 ## Education
 
-- *(degree, institution, year)* — placeholder, to be filled in.
+- INSEAD predoc
+- University of Rochester
+- Hong Kong Polytechnic University
 
 ## Experience
 
-- *(role, institution / company, period)* — placeholder, to be filled in.
+- Data Scientist
 
 ## Skills
 
-- **Languages**: Python, R, SQL, some Stata
+- **Languages**: Python, R, SQL
 - **Methods**: structural estimation, discrete choice, Bayesian inference, applied ML
-- **Tooling**: Quarto, Linux, AWS, git
+- **Tooling**: claude code!
 
