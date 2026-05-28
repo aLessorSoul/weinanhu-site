@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/research/index.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/2026-05-28-hello.html"
+    ]
+  }
+]

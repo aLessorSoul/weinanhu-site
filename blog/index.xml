@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Weinan Hu</title>
+<link>https://weinan.hu/blog/</link>
+<atom:link href="https://weinan.hu/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Personal academic website of Weinan Hu.</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Thu, 28 May 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hello</title>
+  <link>https://weinan.hu/blog/posts/2026-05-28-hello.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The site is live. v0.1 is a Quarto scaffold deployed via Cloudflare Pages from GitHub. Future posts will cover reading notes, methodological musings, and project updates.</p>
+
+
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://weinan.hu/blog/posts/2026-05-28-hello.html</guid>
+  <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently based at INSEAD, Fontainebleau campus, working as a predoc on projects spanning quantitative marketing and digital platforms. My training combines a data-science / machine-learning foundation with growing expertise in modeling."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "I am currently based at INSEAD, Fontainebleau campus, working as a predoc on projects spanning quantitative marketing and digital platforms. My training combines a data-science / machine-learning foundation with growing expertise in modeling."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nINSEAD predoc\nUniversity of Rochester\nHong Kong Polytechnic University"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\nData Scientist"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: Python, R, SQL\nMethods: structural estimation, discrete choice, Bayesian inference, applied ML\nTooling: claude code!"
+  },
+  {
+    "objectID": "blog/posts/2026-05-28-hello.html",
+    "href": "blog/posts/2026-05-28-hello.html",
+    "title": "Hello",
+    "section": "",
+    "text": "The site is live. v0.1 is a Quarto scaffold deployed via Cloudflare Pages from GitHub. Future posts will cover reading notes, methodological musings, and project updates."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Working papers and projects in progress. Drafts are available on request.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Weinan Hu",
+    "section": "",
+    "text": "I am a researcher in quantitative marketing. I am preparing to apply for a PhD in 2027."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Weinan Hu",
+    "section": "Interests",
+    "text": "Interests\n\nStructural models of consumer choice and search\nLarge Language Models and Recommender systems nudging effect.\nEmpirical analysis of online platforms (advertising, misinformation)"
+  },
+  {
+    "objectID": "index.html#currently",
+    "href": "index.html#currently",
+    "title": "Weinan Hu",
+    "section": "Currently",
+    "text": "Currently\n\nPredoc at INSEAD marketing area\n\nSee Research for more."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Notes, reading reactions, and occasional research thinking.\n\n\n\n\n\n\n\n\n\nHello\n\n\n\nmeta\n\n\n\nFirst post — site is live.\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\nNo matching items"
+  }
+]
