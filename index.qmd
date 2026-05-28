@@ -1,0 +1,35 @@
+---
+title: "Weinan Hu"
+about:
+  template: trestles
+  image: assets/avatar.jpg
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:weinan.hu@insead.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/aLessorSoul
+    - icon: mortarboard
+      text: Google Scholar
+      href: "#"
+---
+
+I am a researcher working at the intersection of **quantitative marketing**, **structural econometrics**, and **digital platforms**. My current work focuses on consumer search and match-value distributions, recommender systems as markets, and the empirical analysis of online misinformation.
+
+I am preparing to apply for a PhD in Quantitative Marketing in the coming cycle.
+
+## Interests
+
+- Structural models of consumer choice and search
+- Recommender systems, attention markets, novelty / diversity as design objectives
+- Empirical analysis of online platforms (advertising, misinformation)
+
+## Currently
+
+- Working with collaborators at INSEAD on agentic / AI-mediated consumer behavior
+- Independent projects on match-value distributions in long-tail consumption (Steam, Last.fm)
+
+See [Research](research/index.qmd) for more.

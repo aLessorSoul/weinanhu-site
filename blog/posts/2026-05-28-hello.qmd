@@ -1,0 +1,8 @@
+---
+title: "Hello"
+description: "First post — site is live."
+date: "2026-05-28"
+categories: [meta]
+---
+
+The site is live. v0.1 is a Quarto scaffold deployed via Cloudflare Pages from GitHub. Future posts will cover reading notes, methodological musings, and project updates.

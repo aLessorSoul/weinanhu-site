@@ -1,0 +1,12 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [title, description, date, categories]
+  feed: true
+---
+
+Notes, reading reactions, and occasional research thinking.

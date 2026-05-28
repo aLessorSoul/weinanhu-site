@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Weinan Hu"
+  description: "Personal academic website of Weinan Hu."
+  site-url: https://weinanhu.com
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research/index.qmd
+        text: Research
+      - href: blog/index.qmd
+        text: Blog
+      - href: assets/cv.pdf
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/aLessorSoul
+      - icon: envelope
+        href: mailto:weinan.hu@insead.edu
+  page-footer:
+    left: "© 2026 Weinan Hu"
+    right:
+      - icon: github
+        href: https://github.com/aLessorSoul
+      - icon: envelope
+        href: mailto:weinan.hu@insead.edu
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-copy: true
+    anchor-sections: true
+    fig-cap-location: bottom
+    smooth-scroll: true

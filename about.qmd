@@ -1,0 +1,25 @@
+---
+title: "About"
+---
+
+## Background
+
+I am currently based at INSEAD, working as a research collaborator on projects spanning quantitative marketing and digital platforms. My training combines a data-science / machine-learning foundation with growing expertise in structural econometrics and economic modeling.
+
+## Education
+
+- *(degree, institution, year)* — placeholder, to be filled in.
+
+## Experience
+
+- *(role, institution / company, period)* — placeholder, to be filled in.
+
+## Skills
+
+- **Languages**: Python, R, SQL, some Stata
+- **Methods**: structural estimation, discrete choice, Bayesian inference, applied ML
+- **Tooling**: Quarto, Linux, AWS, git
+
+## Contact
+
+Email: [weinan.hu@insead.edu](mailto:weinan.hu@insead.edu)

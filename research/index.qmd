@@ -1,0 +1,13 @@
+---
+title: "Research"
+listing:
+  contents: "*.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [title, description, categories, date]
+  exclude:
+    filename: "index.qmd"
+---
+
+Working papers and projects in progress. Drafts are available on request.
