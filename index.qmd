@@ -7,7 +7,7 @@ about:
   image-width: 14em
 ---
 
-I am a researcher working in **quantitative marketing**. I am preparing to apply for a PhD in Quantitative Marketing in 2027.
+I am a researcher in **quantitative marketing**. I am preparing to apply for a PhD in 2027.
 
 ## Interests
 
@@ -17,6 +17,6 @@ I am a researcher working in **quantitative marketing**. I am preparing to apply
 
 ## Currently
 
-- Working as Predoc at INSEAD marketing department
+- Predoc at INSEAD marketing area
 
 See [Research](research/index.qmd) for more.
