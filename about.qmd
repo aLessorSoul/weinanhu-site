@@ -20,6 +20,3 @@ I am currently based at INSEAD, working as a research collaborator on projects s
 - **Methods**: structural estimation, discrete choice, Bayesian inference, applied ML
 - **Tooling**: Quarto, Linux, AWS, git
 
-## Contact
-
-Email: [weinan.hu@insead.edu](mailto:weinan.hu@insead.edu)

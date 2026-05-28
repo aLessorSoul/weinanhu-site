@@ -18,18 +18,8 @@ website:
         text: Blog
       - href: assets/cv.pdf
         text: CV
-    right:
-      - icon: github
-        href: https://github.com/aLessorSoul
-      - icon: envelope
-        href: mailto:weinan.hu@insead.edu
   page-footer:
     left: "© 2026 Weinan Hu"
-    right:
-      - icon: github
-        href: https://github.com/aLessorSoul
-      - icon: envelope
-        href: mailto:weinan.hu@insead.edu
 
 format:
   html:

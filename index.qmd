@@ -5,16 +5,6 @@ about:
   image: assets/avatar.jpg
   image-shape: round
   image-width: 14em
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:weinan.hu@insead.edu
-    - icon: github
-      text: GitHub
-      href: https://github.com/aLessorSoul
-    - icon: mortarboard
-      text: Google Scholar
-      href: "#"
 ---
 
 I am a researcher working at the intersection of **quantitative marketing**, **structural econometrics**, and **digital platforms**. My current work focuses on consumer search and match-value distributions, recommender systems as markets, and the empirical analysis of online misinformation.
